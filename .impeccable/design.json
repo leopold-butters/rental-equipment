@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-02T18:03:02.772779+00:00",
+  "title": "Design System: Прокат",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "primary",
+        "tonalRamp": [
+          "oklch(15% 0.2229 263.37)",
+          "oklch(26% 0.2229 263.37)",
+          "oklch(38% 0.2229 263.37)",
+          "oklch(49% 0.2229 263.37)",
+          "oklch(61% 0.2229 263.37)",
+          "oklch(72% 0.2229 263.37)",
+          "oklch(84% 0.2229 263.37)",
+          "oklch(95% 0.2229 263.37)"
+        ]
+      },
+      "background": {
+        "role": "neutral",
+        "displayName": "background",
+        "tonalRamp": [
+          "oklch(15% 0.0045 258.32)",
+          "oklch(26% 0.0045 258.32)",
+          "oklch(38% 0.0045 258.32)",
+          "oklch(49% 0.0045 258.32)",
+          "oklch(61% 0.0045 258.32)",
+          "oklch(72% 0.0045 258.32)",
+          "oklch(84% 0.0045 258.32)",
+          "oklch(95% 0.0045 258.32)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "surface",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(26% 0.0000 89.88)",
+          "oklch(38% 0.0000 89.88)",
+          "oklch(49% 0.0000 89.88)",
+          "oklch(61% 0.0000 89.88)",
+          "oklch(72% 0.0000 89.88)",
+          "oklch(84% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "text",
+        "tonalRamp": [
+          "oklch(15% 0.0343 257.67)",
+          "oklch(26% 0.0343 257.67)",
+          "oklch(38% 0.0343 257.67)",
+          "oklch(49% 0.0343 257.67)",
+          "oklch(61% 0.0343 257.67)",
+          "oklch(72% 0.0343 257.67)",
+          "oklch(84% 0.0343 257.67)",
+          "oklch(95% 0.0343 257.67)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(15% 0.0331 259.56)",
+          "oklch(26% 0.0331 259.56)",
+          "oklch(38% 0.0331 259.56)",
+          "oklch(49% 0.0331 259.56)",
+          "oklch(61% 0.0331 259.56)",
+          "oklch(72% 0.0331 259.56)",
+          "oklch(84% 0.0331 259.56)",
+          "oklch(95% 0.0331 259.56)"
+        ]
+      },
+      "border": {
+        "role": "neutral",
+        "displayName": "border",
+        "tonalRamp": [
+          "oklch(15% 0.0109 256.70)",
+          "oklch(26% 0.0109 256.70)",
+          "oklch(38% 0.0109 256.70)",
+          "oklch(49% 0.0109 256.70)",
+          "oklch(61% 0.0109 256.70)",
+          "oklch(72% 0.0109 256.70)",
+          "oklch(84% 0.0109 256.70)",
+          "oklch(95% 0.0109 256.70)"
+        ]
+      },
+      "free": {
+        "role": "secondary",
+        "displayName": "free",
+        "tonalRamp": [
+          "oklch(15% 0.1020 159.67)",
+          "oklch(26% 0.1020 159.67)",
+          "oklch(38% 0.1020 159.67)",
+          "oklch(49% 0.1020 159.67)",
+          "oklch(61% 0.1020 159.67)",
+          "oklch(72% 0.1020 159.67)",
+          "oklch(84% 0.1020 159.67)",
+          "oklch(95% 0.1020 159.67)"
+        ]
+      },
+      "rented": {
+        "role": "secondary",
+        "displayName": "rented",
+        "tonalRamp": [
+          "oklch(15% 0.1056 77.97)",
+          "oklch(26% 0.1056 77.97)",
+          "oklch(38% 0.1056 77.97)",
+          "oklch(49% 0.1056 77.97)",
+          "oklch(61% 0.1056 77.97)",
+          "oklch(72% 0.1056 77.97)",
+          "oklch(84% 0.1056 77.97)",
+          "oklch(95% 0.1056 77.97)"
+        ]
+      },
+      "overdue": {
+        "role": "secondary",
+        "displayName": "overdue",
+        "tonalRamp": [
+          "oklch(15% 0.1701 21.92)",
+          "oklch(26% 0.1701 21.92)",
+          "oklch(38% 0.1701 21.92)",
+          "oklch(49% 0.1701 21.92)",
+          "oklch(61% 0.1701 21.92)",
+          "oklch(72% 0.1701 21.92)",
+          "oklch(84% 0.1701 21.92)",
+          "oklch(95% 0.1701 21.92)"
+        ]
+      },
+      "repair": {
+        "role": "secondary",
+        "displayName": "repair",
+        "tonalRamp": [
+          "oklch(15% 0.0963 285.97)",
+          "oklch(26% 0.0963 285.97)",
+          "oklch(38% 0.0963 285.97)",
+          "oklch(49% 0.0963 285.97)",
+          "oklch(61% 0.0963 285.97)",
+          "oklch(72% 0.0963 285.97)",
+          "oklch(84% 0.0963 285.97)",
+          "oklch(95% 0.0963 285.97)"
+        ]
+      },
+      "inactive": {
+        "role": "neutral",
+        "displayName": "inactive",
+        "tonalRamp": [
+          "oklch(15% 0.0429 259.72)",
+          "oklch(26% 0.0429 259.72)",
+          "oklch(38% 0.0429 259.72)",
+          "oklch(49% 0.0429 259.72)",
+          "oklch(61% 0.0429 259.72)",
+          "oklch(72% 0.0429 259.72)",
+          "oklch(84% 0.0429 259.72)",
+          "oklch(95% 0.0429 259.72)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Заголовок страницы",
+        "purpose": "Название текущего раздела."
+      },
+      "body": {
+        "displayName": "Основной текст",
+        "purpose": "Рабочие данные и пояснения."
+      },
+      "field": {
+        "displayName": "Поле",
+        "purpose": "Ввод без автоматического увеличения Safari."
+      },
+      "metric": {
+        "displayName": "Показатель",
+        "purpose": "Сводка и денежные суммы."
+      }
+    },
+    "shadows": [
+      {
+        "name": "selected-filter",
+        "value": "0 2px 4px #1823330a",
+        "purpose": "Выбранный фильтр."
+      },
+      {
+        "name": "dialog",
+        "value": "0 24px 100px #172c4f40",
+        "purpose": "Модальное окно."
+      },
+      {
+        "name": "toast",
+        "value": "0 8px 28px #17233322",
+        "purpose": "Уведомление."
+      }
+    ],
+    "motion": [
+      {
+        "name": "reveal",
+        "value": "0.2s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Открытие окна; отключается при prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1500px"
+      },
+      {
+        "name": "compact",
+        "value": "1180px"
+      },
+      {
+        "name": "tablet",
+        "value": "850px"
+      },
+      {
+        "name": "phone",
+        "value": "650px"
+      },
+      {
+        "name": "narrow-phone",
+        "value": "380px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Основная кнопка",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Кнопка рабочего действия.",
+      "html": "<button class=\"ds-button\">Добавить оборудование</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 16px;border:1px solid var(--line);border-radius:9px;background:var(--paper);color:var(--ink);font:600 15px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;cursor:pointer}.ds-button:hover{background:#edf1f7}.ds-button:focus-visible{outline:3px solid #8baaff;outline-offset:3px}.ds-button:disabled{opacity:.5;cursor:not-allowed}.ds-button{background:var(--blue);border-color:var(--blue);color:#fff}.ds-button:hover{background:#194fce}"
+    },
+    {
+      "name": "Вторичная кнопка",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Кнопка рабочего действия.",
+      "html": "<button class=\"ds-button\">Отмена</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 16px;border:1px solid var(--line);border-radius:9px;background:var(--paper);color:var(--ink);font:600 15px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;cursor:pointer}.ds-button:hover{background:#edf1f7}.ds-button:focus-visible{outline:3px solid #8baaff;outline-offset:3px}.ds-button:disabled{opacity:.5;cursor:not-allowed}"
+    },
+    {
+      "name": "Опасное действие",
+      "kind": "button",
+      "refersTo": "button-danger",
+      "description": "Кнопка рабочего действия.",
+      "html": "<button class=\"ds-button\">Удалить</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 16px;border:1px solid var(--line);border-radius:9px;background:var(--paper);color:var(--ink);font:600 15px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;cursor:pointer}.ds-button:hover{background:#edf1f7}.ds-button:focus-visible{outline:3px solid #8baaff;outline-offset:3px}.ds-button:disabled{opacity:.5;cursor:not-allowed}.ds-button{color:var(--red);border-color:#f1cdd0}"
+    },
+    {
+      "name": "Поле ввода",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Поле с видимой подписью.",
+      "html": "<label class=\"ds-field\">Инвентарный номер<input class=\"ds-input\" placeholder=\"Введите номер\"></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:7px;font:550 13px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink)}.ds-input{background:var(--paper);border:1px solid #ccd4df;border-radius:9px;padding:11px 12px;min-height:46px;color:var(--ink);font:16px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;caret-color:var(--blue)}.ds-input:hover{border-color:#ccd4df}.ds-input:focus-visible{outline:3px solid #8baaff;outline-offset:3px}"
+    },
+    {
+      "name": "Статус оборудования",
+      "kind": "chip",
+      "refersTo": "status",
+      "description": "Смысловой цвет всегда сопровождается текстом.",
+      "html": "<span class=\"ds-status\">Свободно</span>",
+      "css": ".ds-status{display:inline-flex;align-items:center;gap:6px;font:650 11px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;padding:5px 9px;border-radius:6px;background:#e5f4ec;color:var(--green)}.ds-status:before{content:\"\";width:5px;height:5px;border-radius:50%;background:currentColor}"
+    },
+    {
+      "name": "Карточка оборудования",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Белая рабочая поверхность с нейтральной фотографической областью.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-image\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M3 7h4l2-3h6l2 3h4v14H3z M12 10a4 4 0 1 0 0 8 4 4 0 0 0 0-8\"/></svg></div><div class=\"ds-card-body\"><h3>Оборудование</h3><p>Инвентарный номер</p></div></article>",
+      "css": ".ds-card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif}.ds-image{height:155px;background:#eef1f5;display:grid;place-items:center}.ds-image svg{width:60px;height:60px;fill:none;stroke:#8794a6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round}.ds-card-body{padding:18px}.ds-card-body h3{font-size:17px;margin:0}.ds-card-body p{font-size:12px;color:var(--muted);margin:4px 0 14px}"
+    },
+    {
+      "name": "Навигация",
+      "kind": "nav",
+      "description": "Активный раздел выделен синим.",
+      "html": "<nav aria-label=\"Разделы\"><a class=\"ds-nav ds-active\" href=\"#equipment\" aria-current=\"page\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M3 7h18v14H3z M8 7V3h8v4 M3 12h18 M9 12v3h6v-3\"/></svg>Оборудование</a><a class=\"ds-nav\" href=\"#clients\">Клиенты</a></nav>",
+      "css": ".ds-nav{display:flex;gap:12px;align-items:center;min-height:48px;padding:12px 14px;text-decoration:none;color:var(--muted);border-radius:10px;font:550 15px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif}.ds-nav.ds-active{background:#edf2ff;color:var(--blue)}.ds-nav:hover{background:#f0f3f8}.ds-nav:focus-visible{outline:3px solid #8baaff;outline-offset:3px}.ds-nav svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}"
+    },
+    {
+      "name": "Фильтр статуса",
+      "kind": "chip",
+      "description": "Выбранное состояние на общей серой подложке.",
+      "html": "<div class=\"ds-filters\"><button class=\"ds-filter ds-selected\">Все</button><button class=\"ds-filter\">Свободно</button></div>",
+      "css": ".ds-filters{display:flex;gap:5px;background:#e9edf3;padding:4px;border-radius:10px;width:fit-content}.ds-filter{border:0;border-radius:7px;background:transparent;color:#536174;min-height:38px;padding:7px 15px;font:550 13px -apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;cursor:pointer}.ds-filter.ds-selected{background:var(--paper);color:var(--ink);box-shadow:0 2px 4px #1823330a}.ds-filter:hover{background:transparent}.ds-filter.ds-selected:hover{background:var(--paper)}.ds-filter:focus-visible{outline:3px solid #8baaff;outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Рабочий стол проката",
+    "overview": "Отдельная визуальная система приложения учёта аренды. Режим Operate: выдача, возврат и контроль сроков определяют иерархию интерфейса. Направление закреплено пользовательским заданием: светлая деловая тема, белые карточки, серый фон, синий основной цвет.\n\nСистемная типографика и контурные SVG дают привычное отображение на iPhone без загрузки внешних ресурсов. Плотность рассчитана на ежедневную работу; декоративные элементы не конкурируют с данными.",
+    "keyCharacteristics": [
+      "Светлая деловая тема.",
+      "Данные и действия на первом плане.",
+      "iPhone как основной рабочий экран."
+    ],
+    "rules": [
+      {
+        "name": "The Status Text Rule",
+        "body": "Каждый статус содержит текст: цвет и точка только усиливают обозначение.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do сохранять русский интерфейс и системную типографику.",
+      "Do сопровождать цвет статуса текстом.",
+      "Do сохранять нижнюю навигацию, safe-area и крупные действия на телефоне.",
+      "Do использовать реальные пользовательские фотографии; до загрузки показывать нейтральный значок камеры."
+    ],
+    "donts": [
+      "Don’t подменять пустую базу неотмеченными демонстрационными записями.",
+      "Don’t изображать облачную синхронизацию действующей в локальной версии.",
+      "Don’t добавлять декоративные эффекты, мешающие выдаче, возврату и контролю сроков."
+    ]
+  }
+}
